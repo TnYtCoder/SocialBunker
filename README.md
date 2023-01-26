@@ -18,7 +18,7 @@ cd SocialBunker
 ```
 >After Doing Following Steps :-
 
-For Instagram Type :-
+For Instagram :-
 ```
 python3 InstaBunker.py
 ```
@@ -27,3 +27,14 @@ For Snapchat :-
 ```
 python3 InstaBunker.py
 ```
+
+For Twitter :- 
+```
+python3 TweetBunker.py
+```
+
+> Then Enter Username Of The Target & Done. 
+> Start Screen Recording & Send Them To See Their Reactions 🤣
+
+#
+## Thank You !!
